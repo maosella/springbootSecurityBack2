@@ -8,8 +8,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/maosella/springcloudMSA
-          searchPaths: microservices-config
+          uri: https://github.com/maosella/springbootSecurityBack2
+          searchPaths: config
 
 eureka:
   client:
